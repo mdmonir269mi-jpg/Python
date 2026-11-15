@@ -1,0 +1,7 @@
+BOT_TOKEN=9271007687:AAFqsPKfqo9gUWcdYwwZDb567DskbARq6tI
+ZEBRA_KEY=DS8YLLZHXXW
+ZEBRA_BASE=https://api.zebrasms.com/api/v1/publicapi
+ADMIN_IDS=
+SUPPORT=@Monir12255
+# OTP গ্রুপ/চ্যানেলের লিংক বসালে বাটন আসবে (ফাঁকা রাখলে বাটন আসবে না)
+OTP_GROUP_URL=https://t.me/+q78Q_9rFypE1MGNl
